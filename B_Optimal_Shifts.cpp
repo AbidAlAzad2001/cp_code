@@ -8,6 +8,7 @@ using namespace std;
 
 void shomadhan(){
     int n;
+    
     cin>>n;
     string s;
     cin>>s;
